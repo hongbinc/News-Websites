@@ -1,0 +1,31 @@
+.navbar-text > a {
+	color: black;
+	text-decoration: none;
+}
+navbar-header.navbar-brand > a {
+    font-family: 'Pacifico', cursive;
+    color:blueviolet;
+}
+
+body {
+    padding-top:78px;
+    padding-bottom:110px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+p {
+    font-family: 'Lora', serif;
+}
+.home-thumb img:hover {
+    transform:scale(1.1);
+}
+.thumbnail img {
+    transition:all 0.3s ease 0s;
+    width:100%;
+}
+.thumbnail {
+    overflow:hidden;
+}
+.
