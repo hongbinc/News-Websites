@@ -2,22 +2,24 @@
 	color: black;
 	text-decoration: none;
 }
+/*Set navbar-brand feature*/
 navbar-header.navbar-brand > a {
     font-family: 'Pacifico', cursive;
     color:blueviolet;
 }
-
+/*Setting the body padding*/
 body {
     padding-top:78px;
     padding-bottom:110px;
 }
-
+/*Address font-family*/
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
 }
 p {
     font-family: 'Lora', serif;
 }
+/*Set imgs transition and transform*/
 .home-thumb img:hover {
     transform:scale(1.1);
 }
@@ -28,4 +30,3 @@ p {
 .thumbnail {
     overflow:hidden;
 }
-.
